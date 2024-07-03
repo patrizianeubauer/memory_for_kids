@@ -13,6 +13,7 @@
 Pictures taken from:
 - https://www.veryicon.com/icons/
 - https://www.memozor.com/memory-games/printable-memory-games/for-kids/animals-cards (@ Copyright Emmanuelle ROUGER)
+- https://www.pinterest.de/pin/817895982310236146/ (@ Copyright familieundstadt.de)
 
 <img src="startdisplay.png" alt="Starting Display" width="400">
 <img src="gameboard.png" alt="Gameboard" width="400">
