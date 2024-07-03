@@ -11,7 +11,7 @@ var pairs = 0
 var pairsLabel
 var moves = 0
 var movesLabel
-var goalOfGame = 1 # später 10
+var goalOfGame = 10
 var selectedIndex = 0
 
 var startDisplay = preload('res://scenes/StartingDisplay.tscn')
