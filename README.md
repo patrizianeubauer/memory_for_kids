@@ -1,4 +1,4 @@
-# MEMORY for Kids
+# MEMORY for Kids (Godot 4)
 
 ## Description
 "MEMORY for Kids" is an entertaining and educational game designed to enhance memory skills in children. This game makes learning fun, giving kids an exciting and enjoyable experience. Players can choose between two themes: "Numbers from 1-10" or "Animals."
