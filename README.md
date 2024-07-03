@@ -15,4 +15,4 @@ Pictures taken from:
 - https://www.memozor.com/memory-games/printable-memory-games/for-kids/animals-cards (@ Copyright Emmanuelle ROUGER)
 
 <img src="startingdisplay.png" alt="Starting Display" width="400">
-<img src="gameboard" alt="Gameboard" width="400">
+<img src="gameboard.png" alt="Gameboard" width="400">
