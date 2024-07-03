@@ -1,0 +1,50 @@
+[gd_scene load_steps=3 format=3 uid="uid://418b7e0ilrf0"]
+
+[ext_resource type="Script" path="res://scripts/GameBoard.gd" id="1_pseqk"]
+[ext_resource type="PackedScene" uid="uid://ch5h2xnw564ex" path="res://scenes/InfoDisplay.tscn" id="2_h52vo"]
+
+[node name="GameBoard" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_pseqk")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 2.0
+offset_right = -4.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="grid" type="GridContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 68.0
+offset_top = 228.0
+offset_right = -62.0
+offset_bottom = -54.0
+grow_horizontal = 2
+grow_vertical = 2
+columns = 4
+
+[node name="FlipTimer" type="Timer" parent="."]
+unique_name_in_owner = true
+one_shot = true
+
+[node name="MatchTimer" type="Timer" parent="."]
+one_shot = true
+
+[node name="InfoDisplay" parent="." instance=ExtResource("2_h52vo")]
+layout_mode = 1
+
+[connection signal="timeout" from="FlipTimer" to="." method="_on_flip_timer_timeout"]
+[connection signal="timeout" from="MatchTimer" to="." method="_on_match_timer_timeout"]
