@@ -6,7 +6,7 @@
 ### Author(s): 
 - Patrizia Neubauer
 
-## Tutorials (Credits to)
+## Sources (Credits to)
 - https://www.youtube.com/watch?v=A60dT7RJfO8&t=186s (Godot 3.2)
 - https://www.youtube.com/watch?v=sJ-icrkrM2s (Godot 3.2)
 
