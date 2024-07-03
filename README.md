@@ -11,7 +11,6 @@
 - https://www.youtube.com/watch?v=sJ-icrkrM2s (Godot 3.2)
 
 Pictures taken from:
-- https://www.veryicon.com/icons/file-type/file-type-icon-library/retry-1.html
-- https://www.veryicon.com/icons/miscellaneous/enterprise-service-function-icon/play-293.html
-- https://www.memozor.com/memory-games/printable-memory-games/for-kids/animals-cards
+- https://www.veryicon.com/icons/
+- https://www.memozor.com/memory-games/printable-memory-games/for-kids/animals-cards (@ Copyright Emmanuelle ROUGER)
 
